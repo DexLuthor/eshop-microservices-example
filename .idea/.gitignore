@@ -1,0 +1,22 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+/sonarlint/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+/aws.xml
+/checkstyle-idea.xml
+/codestream.xml
+/compiler.xml
+/dataSources.xml
+/encodings.xml
+/eshop-microservices-example.iml
+/highlightedFiles.xml
+/hotswap_agent.xml
+/jarRepositories.xml
+/misc.xml
+/vcs.xml
+/codeStyles/
